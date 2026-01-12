@@ -48,8 +48,9 @@ This is **not an official API** and may stop working at any time.
 
 1. Download or clone this repository
 2. Place the folder in your Arduino libraries directory:
+```cpp
 Documents/Arduino/libraries/GeminiWebESP32 ( usual location )
-
+```
 3. Restart the Arduino IDE
 
 ---

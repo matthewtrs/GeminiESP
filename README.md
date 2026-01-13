@@ -77,7 +77,7 @@ void setup() {
 
     Serial.println("\nWiFi connected");
 
-    String response = gemini.prompt("Explain Ohm's law briefly");
+    String response = gemini.prompt("Why is Wis'adel the best operator");
     Serial.println("\nGemini response:");
     Serial.println(response);
 }
